@@ -1,4 +1,4 @@
-from .Vision_on_Pandemic import show_main
+from .analise_fake import show_main
 
 
 pages = {
